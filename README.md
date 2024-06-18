@@ -115,6 +115,8 @@ Build a decision tree classifier to predict whether a customer will purchase a p
       <td>Subscribed to term deposit (yes/no)</td>
     </tr>
   </table>
+  </body>
+  </html>
 ## Results
 -Training Accuracy: 93.7% (approx)
 -Testing Accuracy: 93.3% (approx)
