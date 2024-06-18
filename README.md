@@ -119,8 +119,8 @@ Build a decision tree classifier to predict whether a customer will purchase a p
   </html>
 
 ## Results
--Training Accuracy: 93.7% (approx)
--Testing Accuracy: 93.3% (approx)
+- Training Accuracy: 93.7% (approx)
+- Testing Accuracy: 93.3% (approx)
 
 ## Contact Information
 - <a href="https://www.linkedin.com/in/adithi-v-345604257/">Adithi Vellengara(LinkedIn)</a>
