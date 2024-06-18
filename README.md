@@ -114,6 +114,11 @@ Build a decision tree classifier to predict whether a customer will purchase a p
       <td>Binary</td>
       <td>Subscribed to term deposit (yes/no)</td>
     </tr>
-    ## Results
-    <p> Training Accuracy: 93.7% (approx)</p>
-    <p>Testing Accuracy: 93.3% (approx)</p>
+  </table>
+## Results
+-Training Accuracy: 93.7% (approx)
+-Testing Accuracy: 93.3% (approx)
+## Contact Information
+    
+- <a href="https://www.linkedin.com/in/adithi-v-345604257/">Adithi Vellengara(LinkedIn)</a>
+- Email 📧: adithivs06@gmail.com
